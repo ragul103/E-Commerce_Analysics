@@ -42,7 +42,7 @@ This analysis can be highly beneficial for sales forecasting, marketing targetin
   - `Region` & `State`
   - `Sales`, `Quantity`, `Profit`, and more
 
-> **Dataset Source:** Public dataset available on [Kaggle](https://www.kaggle.com/) or synthetic data created for educational purposes.
+> **Dataset Source:** Public dataset available on [DATASET](E-Commerce/ecommerce_product_performance.csv) or synthetic data created for educational purposes.
 
 ---
 
@@ -319,7 +319,6 @@ If you have any suggestions, questions, or would like to collaborate, feel free 
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
 
-](#)
 
 ---
 
